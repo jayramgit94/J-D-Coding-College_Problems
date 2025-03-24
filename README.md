@@ -19,7 +19,7 @@ To contribute, fork the repository, make your changes, and submit a pull request
 
 ## Clone the Repository
 ```bash
-git clone https://github.com/jayramgit94/J-D-Coding-College_Problems.git
+https://github.com/jayramgit94/JD-Coding_Problems.git
 ```
 
 Happy Coding! 🚀
