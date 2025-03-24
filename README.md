@@ -19,7 +19,8 @@ To contribute, fork the repository, make your changes, and submit a pull request
 
 ## Clone the Repository
 ```bash
-https://github.com/jayramgit94/JD-Coding_Problems.git
+
+git clone https://github.com/jayramgit94/JD-Coding_Problems.git
 ```
 
 Happy Coding! 🚀
