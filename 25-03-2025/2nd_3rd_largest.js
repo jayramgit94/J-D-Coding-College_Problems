@@ -6,5 +6,5 @@ function secondLargest(arr) {
 }
 
 console.log(
-  `the second largest element is ` + secondLargest([1, 2, 34, 5, 7, 7, 0])
-); 
+  `the second largest element is ` + secondLargest([1, 2, 3, 4, 5, 6, 7, 8])
+);
